@@ -1,34 +1,13 @@
 <!-- ===== HERO ===== -->
 <div align="center">
 
-<img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-
-<br />
-<br />
-
-<img height="60" alt="software engineer note" src="images/personal_note.svg" />
-
-<br />
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=aaaaaa&center=true&vCenter=true&width=600&lines=software+engineer+·+interactive+systems;next.js+%2F+fastapi+%2F+c%2B%2B;realtime+systems+%2B+graphics+%2B+audio+processing" />
-
-</div>
-
----
-
-<!-- ===== INTRO GIF ===== -->
-<div align="center">
-
 <img src="images/welcome-fire.gif" alt="Welcome" />
 
 <br />
 
-to my personal GitHub profile
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=aaaaaa&center=true&vCenter=true&width=600&lines=software+engineer+interactive+systems;next.js+fastapi+cpp;realtime+systems+graphics+audio+processing" />
 
 </div>
-
----
 
 <!-- ===== SOCIAL / LINKS ===== -->
 <table width="100%" align="center">
@@ -149,7 +128,6 @@ tech: python · c++ · ffmpeg · opengl
 <div align="center">
 
 <img src="images/fan-1.gif" />
-<img src="images/welcome-fire.gif" />
 
 </div>
 
@@ -161,10 +139,6 @@ tech: python · c++ · ffmpeg · opengl
 
 <img height="120" width="100%" src="images/marquee.svg" />
 
-<br />
-
-<img src="https://profile-counter.glitch.me/glasilus/count.svg" />
-
 <br /><br />
 
 <img src="images/notepad.gif" />
@@ -174,7 +148,5 @@ tech: python · c++ · ffmpeg · opengl
 <img src="images/noframes.gif" />
 
 <br /><br />
-
-<sub>have a good day</sub>
 
 </div>
