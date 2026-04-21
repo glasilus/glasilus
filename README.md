@@ -2,96 +2,89 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=160&section=header&text=system%20interface&fontSize=28&fontColor=aaaaaa&animation=fadeIn&fontAlignY=45&desc=interactive%20media%20·%20frontend%20·%20systems&descAlignY=65&descSize=14&descColor=666666" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:111111&height=140&section=header&text=glasilus&fontSize=26&fontColor=cccccc&desc=software%20engineer%20·%20interactive%20systems&descAlignY=65&descSize=14&descColor=777777"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=aaaaaa&center=true&vCenter=true&width=600&lines=frontend+%2F+systems+%2F+realtime;next.js+%2B+fastapi+%2B+c%2B%2B;building+production+and+experimental+systems" />
 
 </div>
-
-<!-- ===== HOOK ===== -->
-
-```bash
-> initializing profile...
-
-status: active
-focus: interactive media / frontend / system design
-mode: experimental
-```
 
 ---
 
 <!-- ===== ABOUT ===== -->
 
-I design and build systems that are meant to be experienced.
+```txt
+Software engineer with experience across frontend, backend and realtime systems.
 
-My work sits between frontend engineering, media processing and system architecture —
-with a focus on non-obvious solutions, responsiveness and interface feel.
+Worked with production code, team processes and technical decision-making.
+Interested in architecture, system design and building interactive products.
+```
 
-I’m comfortable across the stack, but I think in systems first.
+---
+
+<!-- ===== EXPERIENCE / HIGHLIGHT ===== -->
+
+## experience highlights
+
+* built fullstack applications (Next.js + FastAPI)
+* worked with real production environments and workflows
+* experience as team lead (task boards, coordination, delivery)
+* developed realtime systems in C++ (performance-critical logic)
 
 ---
 
 <!-- ===== FEATURE PROJECT ===== -->
 
-[ module: disc_vpc ]
-
-**Disc VPC 01** — offline system for algorithmic video editing
-→ analyzes audio, segments it and reconstructs video with audio-reactive transitions
-
-**Disc VPC 01 R-T** — real-time engine (C++)
-→ processes live input and controls video playback frame-by-frame for performances
-
-* custom video distortion pipeline (including datamosh)
-* used in underground live shows / VJ sets
-* built with performance and control in mind
+## disc_vpc
 
 ```bash
-> run disc_vpc --mode realtime
+audio → analysis → structured video output
 ```
+
+**Disc VPC 01**
+offline system for algorithmic video editing
+
+* audio analysis and segmentation
+* automatic video reconstruction
+* custom transition logic
+
+**Disc VPC 01 R-T (C++)**
+real-time engine
+
+* live audio input processing
+* frame-level video control
+* used in live VJ / performance environments
+
+tech:
+python · c++ · ffmpeg · opengl
 
 ---
 
 <!-- ===== OTHER PROJECTS ===== -->
 
-[ module: other_projects ]
+## selected projects
 
-**AI TikTok Video Generator**
-→ fullstack system built with Next.js + Pixi.js
-→ generates dynamic short-form content from scratch
+**AI video generator (Next.js + Pixi.js)**
 
-**Diploma Verification Platform (hackathon)**
-→ encryption + blockchain-based validation system
-→ focused on integrity and trust
+* dynamic generation of short-form content
+* custom rendering pipeline
+
+**Diploma verification platform**
+
+* encryption-based validation
+* blockchain integration
+* built under hackathon constraints
 
 ---
 
 <!-- ===== STACK ===== -->
 
-[ module: stack ]
+<div align="center">
 
-```txt
-core:
-  next.js / vue / nuxt
-  fastapi (python)
-  c++ (real-time / performance systems)
+<img src="https://skillicons.dev/icons?i=nextjs,vue,nuxt,python,cpp,js,git,docker" />
 
-media:
-  ffmpeg
-  opengl
-  pixi.js
-
-other:
-  docker (basic)
-  git
-```
-
----
-
-<!-- ===== THINKING ===== -->
-
-[ module: approach ]
-
-* system-oriented thinking
-* attention to interaction and feel
-* preference for unconventional but meaningful solutions
+</div>
 
 ---
 
@@ -99,9 +92,13 @@ other:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=888888&text_color=cccccc&icon_color=777777&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=glasilus&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=cccccc&text_color=aaaaaa&icon_color=cccccc&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=0d1117&title_color=888888&text_color=cccccc&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glasilus&layout=compact&bg_color=00000000&title_color=cccccc&text_color=aaaaaa&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=glasilus&background=00000000&border=444444&stroke=666666&ring=aaaaaa&fire=cccccc&currStreakLabel=cccccc&sideLabels=aaaaaa&dates=888888"/>
 
 </div>
 
@@ -109,12 +106,10 @@ other:
 
 <!-- ===== CONTACT ===== -->
 
-[ module: contact ]
+## contact
 
-```txt
-telegram: @glasilus
-email:    tedthefreak@gmail.com
-```
+* telegram: @glasilus
+* email: [tedthefreak@gmail.com](mailto:tedthefreak@gmail.com)
 
 ---
 
@@ -122,6 +117,6 @@ email:    tedthefreak@gmail.com
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:0f0f0f&height=80&section=footer"/>
+<img src="https://profile-counter.glitch.me/glasilus/count.svg"/>
 
 </div>
