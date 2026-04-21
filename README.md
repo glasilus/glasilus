@@ -46,13 +46,9 @@ interactive engines · graphics
 <!-- ===== ABOUT ===== -->
 ## about
 
-```txt
-Software engineer focused on interactive systems, realtime processing and creative tooling.
-
-Experience in production systems, team workflows and technical decision-making.
-
-Interested in architecture, low-level performance and visual / audio computing.
-````
+> Software engineer focused on **interactive systems**, **realtime processing** and **creative tooling**.
+>
+> Experience in production systems, team workflows and technical decision-making.
 
 ---
 
@@ -116,9 +112,11 @@ tech: python · c++ · ffmpeg · opengl
 ## stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,vuejs,nuxt,fastapi,cpp,python,ts,docker,git,linux,bash,svg,nginx,cmake" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,postgresql,bash" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nuxt,vuejs,fastapi,nodejs" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cmake,git" />
 </div>
 
 ---
