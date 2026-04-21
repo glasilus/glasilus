@@ -60,9 +60,9 @@ Interested in architecture, low-level performance and visual / audio computing.
 
 ## experience
 
-* fullstack development (Next.js + FastAPI)
+* fullstack production-ready development (Next.js + FastAPI)
 * realtime systems in C++
-* production engineering & team coordination
+* production engineering & team coordination (team lead exp in AI-driven projects)
 * performance-critical audio/video pipelines
 * experimental graphics & interactive tools
 
@@ -72,7 +72,7 @@ Interested in architecture, low-level performance and visual / audio computing.
 
 ## selected projects
 
-### disc_vpc
+### [disc_vpc](https://github.com/glasilus/disc-vpc01) `in-development`
 
 ```bash
 audio → analysis → structured video output
@@ -95,7 +95,7 @@ tech: python · c++ · ffmpeg · opengl
 
 ---
 
-### ai video generator
+### ai video generator `commercial`
 
 * procedural short-form video generation
 * custom rendering pipeline
@@ -103,7 +103,7 @@ tech: python · c++ · ffmpeg · opengl
 
 ---
 
-### diploma verification platform
+### diploma verification platform [live demo](https://veritas-beige-xi.vercel.app/)
 
 * cryptographic validation system
 * blockchain-based verification layer
@@ -117,7 +117,7 @@ tech: python · c++ · ffmpeg · opengl
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,vue,nuxt,react,python,cpp,js,git,docker" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vuejs,nuxt,fastapi,cpp,python,ts,docker,git,linux,bash,svg,nginx,cmake" />
 
 </div>
 
