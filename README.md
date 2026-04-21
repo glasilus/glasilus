@@ -116,5 +116,5 @@ python · c++ · ffmpeg · opengl
 <!-- ===== FOOTER ===== -->
 
 ```
-![Visitor Count](https : //profile-counter.glitch.me/glasilus/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/glasilus/count.svg)
 ```
